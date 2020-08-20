@@ -1,1 +1,1 @@
-# automatedMailSender
+# Automated Mail Sender
