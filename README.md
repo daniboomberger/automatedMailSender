@@ -1,1 +1,3 @@
 # Automated Mail Sender
+
+This project was created as I deleted multiple accounts with an similar mail body so I thought why not to create an automated mail sender. Maybe there will be more but it's just an functional project so we will see soon....
