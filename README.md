@@ -2,7 +2,7 @@
 
 This project was created as I deleted multiple accounts with an similar mail body so I thought why not to create an automated mail sender. Maybe there will be more but it's just an functional project so we will see soon....
 
-## How does the program work
+## Steps to run the code successfully
 Create an json file with your E-Mail list and the provide the needed properties.
 Attention --> json should start at 0 (maybe will be more dynamic in some time...) 
 The Json layout is actually static and cannot be changed for now but the mail count that can be sent is set to 100
